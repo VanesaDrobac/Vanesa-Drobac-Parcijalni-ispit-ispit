@@ -2,5 +2,7 @@
     "appService.zipIgnorePattern": [
         "node_modules{,/**}",
         ".vscode{,/**}"
-    ]
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/a51afa45-1fe8-4834-9ddc-efc8c8b7c68c/resourceGroups/IvanaBozac-algebra/providers/Microsoft.Web/sites/ivanabozac",
+    "appService.deploySubpath": "."
 }
