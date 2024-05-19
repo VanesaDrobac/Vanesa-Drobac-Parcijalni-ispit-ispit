@@ -1,4 +1,10 @@
 {
+  "dependencies": {
+    "harry-potter-names": "^1.2.0"
+  }
+}
+
+{
   "name": "parcijalni-ispit",
   "version": "1.0.0",
   "description": "Razvojna okolina - parcijalni ispit",
